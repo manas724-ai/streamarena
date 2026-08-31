@@ -1,0 +1,19 @@
+# CODEOWNERS
+# Requires review from the listed owner(s) before a PR touching these
+# paths can be merged (once branch protection is enabled in GitHub repo
+# settings — this file alone doesn't enforce anything).
+#
+# Aussi-Nexus Group: replace @your-github-handle below with real GitHub
+# usernames or team handles (e.g. @aussi-nexus/backend) before relying on
+# this for review enforcement.
+
+* @your-github-handle
+
+/apps/api/          @your-github-handle
+/apps/web/           @your-github-handle
+/apps/api/src/lib/payments.ts   @your-github-handle
+/apps/api/src/ws/arenaGateway.ts @your-github-handle
+/LICENSE             @your-github-handle
+/TERMS_OF_SERVICE.md @your-github-handle
+/PRIVACY_POLICY.md   @your-github-handle
+/DISCLAIMER.md       @your-github-handle

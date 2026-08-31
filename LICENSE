@@ -1,0 +1,60 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Aussi-Nexus Group. All Rights Reserved.
+
+This software and associated documentation files (the "Software"),
+including but not limited to the StreamArena source code, architecture,
+game design, and associated assets contained in this repository, are the
+proprietary and confidential property of Aussi-Nexus Group ("the Company").
+
+NO LICENSE IS GRANTED. No part of the Software may be used, copied,
+modified, merged, published, distributed, sublicensed, and/or sold, in
+whole or in part, without the prior written permission of Aussi-Nexus
+Group, except as expressly permitted in a separate written agreement
+signed by an authorized representative of the Company.
+
+Restrictions. Unless you have entered into a separate written agreement
+with Aussi-Nexus Group granting you specific rights, you may NOT:
+
+  1. Copy, reproduce, or redistribute the Software or any portion of it.
+  2. Modify, adapt, translate, or create derivative works based on the
+     Software.
+  3. Reverse engineer, decompile, or disassemble the Software, except to
+     the extent such restriction is expressly prohibited by applicable law.
+  4. Use the Software, in whole or in part, for any commercial purpose.
+  5. Remove, obscure, or alter any proprietary notices (including this
+     license, copyright notices, and trademark notices) affixed to the
+     Software.
+  6. Sublicense, rent, lease, loan, or otherwise transfer the Software to
+     any third party.
+
+Authorized Access. Access to this repository (e.g., by employees,
+contractors, or other authorized collaborators of Aussi-Nexus Group) does
+not itself grant any license or ownership rights beyond what is necessary
+to perform authorized work for the Company, and is governed by the
+individual's separate employment, contractor, or collaboration agreement
+with the Company.
+
+Third-Party Components. The Software may incorporate open-source or
+third-party components distributed under their own licenses (see the
+`package.json` files under `apps/*` and `packages/*` and their respective
+`node_modules` for details once installed). Those components remain
+governed by their own license terms, which are not superseded by this
+license. Nothing in this license restricts your rights under those
+separate open-source licenses with respect to those specific components.
+
+DISCLAIMER OF WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR
+AUSSI-NEXUS GROUP BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+All trademarks, service marks, and trade names ("StreamArena", "The
+Arena", associated logos, and marks) are the property of Aussi-Nexus
+Group. See TRADEMARKS.md for details.
+
+For licensing inquiries, contact: legal@aussi-nexus.example (replace with
+your organization's actual legal contact before publishing this repository).

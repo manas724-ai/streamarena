@@ -1,0 +1,30 @@
+{
+  "name": "streamarena",
+  "private": true,
+  "version": "0.1.0",
+  "description": "StreamArena — live-streaming platform built around an endless multiplayer arena game.",
+  "license": "UNLICENSED",
+  "author": "Aussi-Nexus Group",
+  "copyright": "Copyright (c) 2026 Aussi-Nexus Group. All Rights Reserved.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aussi-nexus/streamarena.git"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev --workspace apps/api",
+    "dev:web": "npm run dev --workspace apps/web",
+    "build:api": "npm run build --workspace apps/api",
+    "build:web": "npm run build --workspace apps/web",
+    "bots": "npm run bots --workspace apps/api"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
